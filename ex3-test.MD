@@ -21,7 +21,7 @@ Vitor Cavalcanti,
   
 1. **Qual o seu entendimento sobre o Processo de Desenvolvimento de Software?**
    
-   <p align="justify">
+   <p align="justify" style="text-indent:50px;">
     A primeira etapa, levantamento de requisitos, consiste em compreender o problema que o sofware propõe-se a resolver. É importante nessa etapa que toda as partes interessadas, desenvolvedores, usuários, patrocinadores e demais interessados participem para aumentar a probabilidade de sucesso do projeto. Esta etapa costuma ser subestimada por aqueles que não entendem bem o processo de construção de um software o que pode levar o projeto ao fracasso. Existem várias metodologias para realizar este levantamento de requisitos. O paradigma cascata, adotado nos primórdios dessa atividade, foi trocado pelo paradigma iterativo que possui muitas variações, tais como as metodologias ágeis.
 
     A análise de requisitos é onde os desenvolvedores fazem um estudo mais aprofundado dos dados obtidos na etapa anterior. Nesta etapa começam a ser criados os modelos que possam representar uma estratégia para a solução do problema. Os desenvolvedores utilizarão esses modelos para escrever o código.
