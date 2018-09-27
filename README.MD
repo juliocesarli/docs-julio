@@ -1,3 +1,3 @@
-#Leia-me
+#gitHub julio-docs
 
-area de de testes
+local usado para exercicios e alguns demos de aplicações.
